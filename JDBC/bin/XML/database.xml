@@ -1,0 +1,7 @@
+<cb-config>
+    <host>localhost</host>
+    <port>5432</port>
+    <user>postgres</user>
+    <password>abdul.sadiq</password>
+    <database>Sports</database>
+ </cb-config>
